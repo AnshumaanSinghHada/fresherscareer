@@ -1,7 +1,7 @@
 export const JobList: Job[] = [
   {
     id: 1,
-    heading: "Deloitte Job A",
+    heading: "Accenture Job A",
     link: "https://www.google.com",
     image_url: "/static/img/Deloitte_Logo.png",
   },
