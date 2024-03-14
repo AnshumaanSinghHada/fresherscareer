@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import { Facebook, Instagram, Linkedin, Twitter } from "react-feather";
+import { Facebook, Instagram, Youtube } from "react-feather";
 
 export const AboutUs = () => {
   return (
@@ -15,20 +15,18 @@ export const AboutUs = () => {
         />
       </div>
       <div id="Company_Name" className="p-2">
-        <h1 className="text-3xl text-black font-semibold ">Anshuman Hada</h1>
+        <h1 className="text-3xl text-black font-semibold ">@fresherscareer</h1>
       </div>
       <div id="Company_Info">
         <h2 className="text-sm text-center text-black">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem veniam,
-          expedita sunt quibusdam sed!
+          100% Verified Jobs
         </h2>
       </div>
       <div id="Company_Social">
         <div id="Social_Media_Logos" className="flex text-black p-2">
-          <Linkedin className="shadow-md hover:shadow-2xl rounded- m-2 p-2 w-10 h-10" />
+          <Youtube className="shadow-md hover:shadow-2xl rounded- m-2 p-2 w-10 h-10" />
           <Facebook className="shadow-md hover:shadow-2xl rounded- m-2 p-2 w-10 h-10" />
           <Instagram className="shadow-md hover:shadow-2xl rounded- m-2 p-2 w-10 h-10" />
-          <Twitter className="shadow-md hover:shadow-2xl rounded- m-2 p-2 w-10 h-10" />
         </div>
       </div>
     </div>
