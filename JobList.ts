@@ -27,7 +27,7 @@ export const JobList: Job[] = [
   },
   {
     id: 5,
-    heading: "Deloitte Job C",
+    heading: "Deloitte Job",
     link: "https://www.google.com",
     image_url: "/static/img/Deloitte_Logo.png",
   },
