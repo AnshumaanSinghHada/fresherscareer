@@ -16,11 +16,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      {process.env.NODE_ENV === "production" && (
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4830579227567887"
      crossorigin="anonymous"></script>
-      )}
-      
       <body className={inter.className}>{children}</body>
     </html>
   );
