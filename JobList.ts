@@ -27,8 +27,8 @@ export const JobList: Job[] = [
   },
   {
     id: 5,
-    heading: "Deloitte Job",
-    link: "https://www.google.com",
+    heading: "ASE | Cyntexa | Jaipur",
+    link: "https://cyntexa.com/careers/associate-software-developer/?v=linkedin",
     image_url: "/static/img/Deloitte_Logo.png",
   },
   {
@@ -47,8 +47,8 @@ export const JobList: Job[] = [
   {
     id: 8,
     heading:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quoscommodi quibusdam maiores eveniet doloremque explicabo, quasinobis sint perspiciatis id quis aspernatur culpa hic enimveritatis quisquam animi exercitationem deleniti.",
-    link: "https://www.google.com",
+      "Developer | Wipro | Bengaluru",
+    link: "https://careers.wipro.com/careers-home/jobs/3058201",
     image_url: "/static/img/Deloitte_Logo.png",
   },
   {
@@ -87,12 +87,6 @@ export const JobList: Job[] = [
     id: 14,
     heading: "Software Engineer | Walmart | Bangalore",
     link: "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/details/SOFTWARE-ENGINEER-III_R-1773548?timeType=b181d8271e36017533d4ca68eee44f00&locationCountry=c4f78be1a8f14da0ab49ce1162348a5e",
-    image_url: "/static/img/Deloitte_Logo.png",
-  },
-   {
-    id: 15,
-    heading: "Developer | Wipro | Bengaluru",
-    link: "https://careers.wipro.com/careers-home/jobs/3058201",
     image_url: "/static/img/Deloitte_Logo.png",
   },
 ];
