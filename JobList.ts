@@ -3,7 +3,7 @@ export const JobList: Job[] = [
     id: 1,
     heading: "Associate | Cognizant | Kolkata",
     link: "https://careers.cognizant.com/in/en/job/COGNGLOBAL00055692593/Associate-Projects",
-    image_url: "/static/img/Cognizant.png",
+    image_url: "/static/img/hp.png",
   },
   {
     id: 1,
