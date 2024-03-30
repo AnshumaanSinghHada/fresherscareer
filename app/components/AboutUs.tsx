@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import { Facebook, Instagram, Youtube } from "react-feather";
+import Link from "next/link";
 
 export const AboutUs = () => {
   return (
@@ -23,11 +24,14 @@ export const AboutUs = () => {
         </h2>
       </div>
       <div id="Company_Social">
-        <div id="Social_Media_Logos" className="flex text-black p-2">
-          <Youtube className="shadow-md hover:shadow-2xl rounded- m-2 p-2 w-10 h-10" />
-          <Facebook className="shadow-md hover:shadow-2xl rounded- m-2 p-2 w-10 h-10" />
-          <Instagram className="shadow-md hover:shadow-2xl rounded- m-2 p-2 w-10 h-10" />
-        </div>
+        <Link href="#">
+          <div id="Social_Media_Logos" className="px-5 mx-auto flex bg-red-500 text-white hover:shadow-zinc-500 hover:shadow-md shadow-md rounded-3xl p-1 items-center m-7 w-full">
+            Subscribe to our Youtube
+            <Youtube className="m-2 p-1 w-10 h-10" />
+            {/* <Facebook className="shadow-md hover:shadow-2xl rounded- m-2 p-2 w-10 h-10" />
+          <Instagram className="shadow-md hover:shadow-2xl rounded- m-2 p-2 w-10 h-10" /> */}
+          </div>
+        </Link>
       </div>
     </div>
   );
