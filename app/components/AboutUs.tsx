@@ -24,7 +24,7 @@ export const AboutUs = () => {
         </h2>
       </div>
       <div id="Company_Social">
-        <Link href="www.youtube.com/@fresherscareerofficial">
+        <Link href="https://youtube.com/@fresherscareerofficial?feature=shared">
           <div id="Social_Media_Logos" className="px-5 mx-auto flex bg-red-500 text-white hover:shadow-zinc-500 hover:shadow-md shadow-md rounded-3xl p-1 items-center m-7 w-full">
             Subscribe to our Youtube
             <Youtube className="m-2 p-1 w-10 h-10" />
