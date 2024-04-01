@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
   {
+    id: 13,
+    heading: "Software Engineer | Microsoft | Bangalore / WFH",
+    link: "https://jobs.careers.microsoft.com/global/en/job/1704435/Software-Engineer",
+    image_url: "/static/img/hp.png",
+  },
+  {
+    id: 12,
+    heading: "Quality Associate | Amazon | Hyderabad",
+    link: "https://amazonvirtualhiring.hirepro.in/registration/incta/ju0f4/apply/?j=58218&e=14250",
+    image_url: "/static/img/hp.png",
+  },
+  {
+    id: 11,
+    heading: "Associate Consultant | KPMG | Bangalore",
+    link: "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10015744",
+    image_url: "/static/img/hp.png",
+  },
+  {
     id: 10,
     heading: "Associate Software Engineer | Oracle | Bangalore",
     link: "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/233846",
