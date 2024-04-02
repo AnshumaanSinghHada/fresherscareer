@@ -1,7 +1,7 @@
 export const JobList: Job[] = [
    {
     id: 16,
-    heading: "Quality Ana;yst | Revolut | Work From Home",
+    heading: "Quality Analyst | Revolut | Work From Home",
     link: "https://www.revolut.com/en-IN/careers/position/quality-assurance-analyst-0f7bfdfb-6fd1-4fbe-b586-f62f84536fa9/",
     image_url: "/static/img/hp.png",
   },
