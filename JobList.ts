@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+   {
+    id: 16,
+    heading: "Quality Ana;yst | Revolut | Work From Home",
+    link: "https://www.revolut.com/en-IN/careers/position/quality-assurance-analyst-0f7bfdfb-6fd1-4fbe-b586-f62f84536fa9/",
+    image_url: "/static/img/hp.png",
+  },
+   {
+    id: 15,
+    heading: "Software Engineer Intern | NIKE | Bangalore",
+    link: "https://jobs.nike.com/job/R-24752?cp=76060516106_aff_je6NUbpObpQ&ranMID=41134&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-UmBg0FI_AoHwGdLO5ac13w",
+    image_url: "/static/img/hp.png",
+  },
+   {
+    id: 14,
+    heading: "iOS Developer | Meesho | Bangalore",
+    link: "https://jobs.lever.co/meesho/6e0e5074-e1bb-41c6-89bb-2c20d36d4b0f/",
+    image_url: "/static/img/hp.png",
+  },
   {
     id: 13,
     heading: "Software Engineer | Microsoft | Bangalore / WFH",
