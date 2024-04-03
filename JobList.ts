@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+    {
+    id: 19,
+    heading: "Consultant Internship | Deloitte | Bangalore",
+    link: "https://jobsindia.deloitte.com/job/Bengaluru-Consulting-Internship/23914944/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 18,
+    heading: "Software Development Engineer | Urban Company | Gurgaon",
+    link: "https://careers.urbancompany.com/jobDetail?id=eb369381-1cfe-432f-affc-12070d83a2c6",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 17,
+    heading: "Analyst | EY | Noida",
+    link: "https://careers.ey.com/ey/job/Noida-Analyst-Forensics-National-ASU-Forensics-Investigations-&-Compliance-Noida-UP-201304/1003553001/",
+    image_url: "/static/img/hp.png",
+  },
    {
     id: 16,
     heading: "Quality Analyst | Revolut | Work From Home",
