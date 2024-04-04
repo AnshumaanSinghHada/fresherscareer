@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+     {
+    id: 22,
+    heading: "CXQO Associate | Amazon | Hyderabad",
+    link: "https://amazonvirtualhiring.hirepro.in/registration/incta/dirc1/apply/?event=14050&job=58038",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 21,
+    heading: "Domain Trainee | Genpact | Jaipur",
+    link: "https://genpact.taleo.net/careersection/sgy_external_career_section/jobdetail.ftl?job=INS023413",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 20,
+    heading: "QA Engineer | ZOHO Corp | Chennai",
+    link: "https://www.zoho.com/careers/jobdetails/?job_id=2803000614913581",
+    image_url: "/static/img/hp.png",
+  },
     {
     id: 19,
     heading: "Consultant Internship | Deloitte | Bangalore",
