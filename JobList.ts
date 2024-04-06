@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
      {
+    id: 28,
+    heading: "Associate Analyst | EY | Work From Home",
+    link: "https://unstop.com/jobs/associate-analyst-ey-ernst-young-948846?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 27,
+    heading: "SW Test Engineer | Amdocs | Pune",
+    link: "https://jobs.amdocs.com/careers/job/563430997179581",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 26,
+    heading: "Trainee Engineer | NTT Data | Mumbai",
+    link: "https://careers.services.global.ntt/global/en/job/NTT1GLOBALR112898EXTERNALENGLOBAL/Trainee-Engineer",
+    image_url: "/static/img/hp.png",
+  },
+     {
     id: 25,
     heading: "Data Analyst | Wipro | Hyderabad",
     link: "https://careers.wipro.com/careers-home/jobs/3066940",
