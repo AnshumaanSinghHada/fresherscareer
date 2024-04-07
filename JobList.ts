@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+       {
+    id: 31,
+    heading: "Customer Executive | Groww | Work From Home",
+    link: "https://groww.skillate.com/jobs/54143",
+    image_url: "/static/img/hp.png",
+  },
+       {
+    id: 30,
+    heading: "QA Engineer | Peakflo | Work From Home",
+    link: "https://app.dover.io/apply/peakflo/c785fb54-e416-4748-879a-313fdb1e6f7a?rs=42706078",
+    image_url: "/static/img/hp.png",
+  },
+       {
+    id: 29,
+    heading: "Cloud Specialist | Hyland | Work From Home",
+    link: "https://careers-hyland.icims.com/jobs/11504/cloud-specialist-2/job?mode=job&iis=Job%2BBoard&mobile=true&width=390&height=669&bga=true&needsRedirect=false&jan1offset=330&jun1offset=330",
+    image_url: "/static/img/hp.png",
+  },
      {
     id: 28,
     heading: "Associate Analyst | EY | Work From Home",
