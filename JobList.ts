@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+        {
+    id: 34,
+    heading: "Data Analyst | Walmart | Bangalore",
+    link: "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/DATA-ANALYST-II--DATA-ANALYTICS_R-1796887-1",
+    image_url: "/static/img/hp.png",
+  },
+        {
+    id: 33,
+    heading: "Program Analyst | WNS | Mumbai",
+    link: "https://jobs.smartrecruiters.com/WNSGlobalServices144/743999978597288-ref31776o-end-user-computing-desktop-support-mumbai-wfo-senior-program-analyst-eit",
+    image_url: "/static/img/hp.png",
+  },
+        {
+    id: 32,
+    heading: "Analyst | Morgan Stanley | Mumbai",
+    link: "https://morganstanley.eightfold.ai/careers?pid=549777250362&domain=morganstanley.com&sort_by=relevance",
+    image_url: "/static/img/hp.png",
+  },
        {
     id: 31,
     heading: "Customer Executive | Groww | Work From Home",
