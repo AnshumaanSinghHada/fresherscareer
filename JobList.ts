@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+         {
+    id: 37,
+    heading: "Process Associate | Genpact | Noida",
+    link: "https://genpact.taleo.net/careersection/sgy_external_career_section/jobdetail.ftl?src=DS-10971&job=1322997",
+    image_url: "/static/img/hp.png",
+  },
+         {
+    id: 36,
+    heading: "Financial Analyst | Alight | Work From Home",
+    link: "https://careers.alight.com/us/en/job/ALIGUSR28009EXTERNALENUS/Financial-Analyst-I",
+    image_url: "/static/img/hp.png",
+  },
+         {
+    id: 35,
+    heading: "Software Engineer | Infor | Bangalore",
+    link: "https://careers.infor.com/en_US/careers/JobDetail/Software-Engineer-Associate/13323",
+    image_url: "/static/img/hp.png",
+  },
         {
     id: 34,
     heading: "Data Analyst | Walmart | Bangalore",
