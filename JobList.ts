@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+             {
+    id: 40,
+    heading: "Support Analyst | Revolut | Work From Home",
+    link: "https://www.revolut.com/careers/position/support-specialist-identity-and-verification-analyst-35ee6d79-acf3-4dcc-8544-19d8115f2ed6/",
+    image_url: "/static/img/hp.png",
+  },
+             {
+    id: 39,
+    heading: "Software Engineer | Cognizant | Bangalore",
+    link: "https://careers.cognizant.com/global/en/job/COGNGLOBAL00058595801/Software-Engineer",
+    image_url: "/static/img/hp.png",
+  },
+             {
+    id: 38,
+    heading: "Technical Support Engineer | IBM | Bangalore",
+    link: "https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26059&siteid=5016&PageType=JobDetails&jobid=730146#jobDetails=730146_5016",
+    image_url: "/static/img/hp.png",
+  },
          {
     id: 37,
     heading: "Process Associate | Genpact | Noida",
