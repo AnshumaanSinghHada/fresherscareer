@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+     {
+    id: 43,
+    heading: "Engineer 1 | American Express | Bangalore/Hybrid",
+    link: "https://aexp.eightfold.ai/careers/job/21092401?domain=aexp.com",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 42,
+    heading: "Associate Software Developer | Cyntexa | Jaipur",
+    link: "https://cyntexa.com/careers/associate-software-developer/",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 41,
+    heading: "Data Engineer | Pearson | Bangalore",
+    link: "https://pearson.jobs/bangalore-ind/data-engineer-intern/A7DBAA9089EF49D79B56F24697A6155A/job/",
+    image_url: "/static/img/hp.png",
+  },
              {
     id: 40,
     heading: "Support Analyst | Revolut | Work From Home",
