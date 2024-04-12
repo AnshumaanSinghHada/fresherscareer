@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+        {
+    id: 46,
+    heading: "Business Analyst | Infosys | Bangalore/Hybrid",
+    link: "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-NAUKRI-178682&sourceId=4001",
+    image_url: "/static/img/hp.png",
+  },
+        {
+    id: 45,
+    heading: "Platform Support Associate | Accenture | Hyderabad",
+    link: "https://www.accenture.com/in-en/careers/jobdetails?id=AIOC-S01513200_en&title=Platform%20Support%20New%20Associate",
+    image_url: "/static/img/hp.png",
+  },
+        {
+    id: 44,
+    heading: "Quality Engineer | Service Now| Hyderabad",
+    link: "https://unstop.com/jobs/software-quality-engineer-servicenow-946323?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
      {
     id: 43,
     heading: "Engineer 1 | American Express | Bangalore/Hybrid",
