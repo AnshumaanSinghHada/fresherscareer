@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+          {
+    id: 49,
+    heading: "Business Technology Analyst | Deloitte | Hyderabad",
+    link: "https://usijobs.deloitte.com/careersUSI/JobDetail/USI-EH24-Tax-Business-Technology-Analyst-SAP-FI-SD-Fresher-NSE/176139",
+    image_url: "/static/img/hp.png",
+  },
+          {
+    id: 48,
+    heading: "Associate | Sutherland | Chennai",
+    link: "https://unstop.com/jobs/associate-customer-service-sutherland-global-952364",
+    image_url: "/static/img/hp.png",
+  },
+          {
+    id: 47,
+    heading: "Product Marketers | ZOHO | Chennai",
+    link: "https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d1113aee614efa3264984aa32841436332",
+    image_url: "/static/img/hp.png",
+  },
         {
     id: 46,
     heading: "Business Analyst | Infosys | Bangalore/Hybrid",
