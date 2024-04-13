@@ -8,7 +8,7 @@ export const JobList: Job[] = [
           {
     id: 48,
     heading: "Associate | Sutherland | Chennai",
-    link: "https://unstop.com/jobs/associate-customer-service-sutherland-global-952364",
+    link: "https://unstop.com/jobs/associate-customer-service-sutherland-global-952364?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
     image_url: "/static/img/hp.png",
   },
           {
