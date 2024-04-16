@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+           {
+    id: 52,
+    heading: "Analyst | HSBC | Bangalore",
+    link: "https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Analyst-Data-Governance-GSC-S/216031?src=JB-257546",
+    image_url: "/static/img/hp.png",
+  },
+           {
+    id: 51,
+    heading: "Web Developer | Lenovo | Bangalore",
+    link: "https://jobs.lenovo.com/en_US/careers/JobDetail/Web-Developer/55803#",
+    image_url: "/static/img/hp.png",
+  },
+           {
+    id: 50,
+    heading: "Tech Internship | Agoda | Gurgaon",
+    link: "https://careersatagoda.com/job/5417820-tech-internship-2024-india-based-gurgaon-office/",
+    image_url: "/static/img/hp.png",
+  },
           {
     id: 49,
     heading: "Business Technology Analyst | Deloitte | Hyderabad",
