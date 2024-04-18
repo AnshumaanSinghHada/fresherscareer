@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+              {
+    id: 55,
+    heading: "Software Engineering | Goldman Sachs | Bangalore",
+    link: "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/124502",
+    image_url: "/static/img/hp.png",
+  },
+              {
+    id: 54,
+    heading: "Process Advisor | Barclays | Pune",
+    link: "https://search.jobs.barclays/job/pune/process-advisor/13015/63867153760",
+    image_url: "/static/img/hp.png",
+  },
+              {
+    id: 53,
+    heading: "Trainee | Siemens | Bangalore",
+    link: "https://jobs.siemens.com/careers/job?domain=siemens.com&pid=563156119319852&domain=siemens.com",
+    image_url: "/static/img/hp.png",
+  },
            {
     id: 52,
     heading: "Analyst | HSBC | Bangalore",
