@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+      {
+    id: 58,
+    heading: "Trainee | TCS BPS | Multiple Location",
+    link: "https://www.tcs.com/careers/india/tcs-bps-fresher-hiring-2024",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 57,
+    heading: "Graduate Engineer Trainee | NTT DATA | Bangalore",
+    link: "https://careers.services.global.ntt/global/en/job/R-110031/apply",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 56,
+    heading: "Associate | WNS | Bangalore",
+    link: "https://jobs.smartrecruiters.com/WNSGlobalServices144/743999968409093-associate-sr-associate",
+    image_url: "/static/img/hp.png",
+  },
               {
     id: 55,
     heading: "Software Engineering | Goldman Sachs | Bangalore",
