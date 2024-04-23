@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+       {
+    id: 61,
+    heading: "Analyst | Wipro | Bangalore",
+    link: "https://careers.wipro.com/careers-home/jobs/3071006?lang=en-us&previousLocale=en-US",
+    image_url: "/static/img/hp.png",
+  },
+       {
+    id: 60,
+    heading: "Junior Analyst | BCG Group | Delhi",
+    link: "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25811&siteid=5185&Areq=22832BR#jobDetails=860935_5185",
+    image_url: "/static/img/hp.png",
+  },
+       {
+    id: 59,
+    heading: "Intern | NetApp | Bangalore",
+    link: "https://careers.netapp.com/job/bengaluru/intern/27600/64145961392",
+    image_url: "/static/img/hp.png",
+  },
       {
     id: 58,
     heading: "Trainee | TCS BPS | Multiple Location",
