@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
        {
+    id: 64,
+    heading: "Assistant Manager | Genpact | Gurgaon",
+    link: "https://unstop.com/jobs/assistant-manager-genpact-973571?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+       {
+    id: 63,
+    heading: "System Engineer | Wipro | Bangalore",
+    link: "https://unstop.com/jobs/system-engineer-wipro-970569?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+       {
+    id: 62,
+    heading: "Quality Assurance Analyst | Deloitte | Hyderabad",
+    link: "https://unstop.com/jobs/quality-assurance-analyst-deloitte-970487?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+       {
     id: 61,
     heading: "Analyst | Wipro | Bangalore",
     link: "https://careers.wipro.com/careers-home/jobs/3071006?lang=en-us&previousLocale=en-US",
