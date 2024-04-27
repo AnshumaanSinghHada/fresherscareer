@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+           {
+    id: 67,
+    heading: "Software Engineer | Coinbase | Across India",
+    link: "https://www.coinbase.com/en-gb/careers/positions/5920858?gh_jid=5920858",
+    image_url: "/static/img/hp.png",
+  },
+           {
+    id: 66,
+    heading: "Application Developer | Accenture | Bangalore",
+    link: "https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-4308223-S1668147_en",
+    image_url: "/static/img/hp.png",
+  },
+           {
+    id: 65,
+    heading: "Cyber Defence Analyst | Groww | Bangalore",
+    link: "https://groww.skillate.com/jobs/54390",
+    image_url: "/static/img/hp.png",
+  },
        {
     id: 64,
     heading: "Assistant Manager | Genpact | Gurgaon",
