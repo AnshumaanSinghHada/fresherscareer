@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+              {
+    id: 67,
+    heading: "Software Engineer | Google | Hyderabad",
+    link: "https://www.google.com/about/careers/applications/jobs/results/128616549612167878-software-engineer",
+    image_url: "/static/img/hp.png",
+  },
+              {
+    id: 69,
+    heading: "Associate System Engineer | IBM | Mumbai/Pune/Hyderabad",
+    link: "https://careers.ibm.com/job/19344653/associate-system-engineer-remote/",
+    image_url: "/static/img/hp.png",
+  },
+              {
+    id: 68,
+    heading: "Sales Development Representative | Canonical | Work From Home",
+    link: "https://boards.greenhouse.io/canonicaljobs/jobs/5912451?gh_src=d6d6cc6d1us",
+    image_url: "/static/img/hp.png",
+  },
            {
     id: 67,
     heading: "Software Engineer | Coinbase | Across India",
