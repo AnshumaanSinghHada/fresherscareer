@@ -2,7 +2,7 @@ export const JobList: Job[] = [
    {
     id: 68,
     heading: "TCS is Hiring Through TCS NQT | Freshers | 11 May 2024 ",
-    link: "https://nextstep.tcs.com/campus/#/",
+    link: "https://www.tcsion.com/hub/national-qualifier-test/",
     image_url: "/static/img/hp.png",
   },
               {
