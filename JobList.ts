@@ -1,4 +1,16 @@
 export const JobList: Job[] = [
+      {
+    id: 70,
+    heading: "Data Entry Job 1 | Freshers | WORK FROM HOME",
+    link: "https://unstop.com/jobs/data-entry-mis-insight-gro-940651?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 69,
+    heading: "Data Entry Job 2 | Freshers | WORK FROM HOME",
+    link: "https://unstop.com/jobs/data-entry-operator-edusworld-975946?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
    {
     id: 68,
     heading: "TCS is Hiring Through TCS NQT | Freshers | 11 May 2024 ",
