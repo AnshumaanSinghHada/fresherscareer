@@ -1,5 +1,11 @@
 export const JobList: Job[] = [
       {
+    id: 74,
+    heading: "Data Analyst | FRESHERS | WORK FROM HOME",
+    link: "https://unstop.com/jobs/data-analyst-digitech-sols-941631?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+      {
     id: 73,
     heading: "Advisor | PhonePe | Bangalore",
     link: "https://boards.greenhouse.io/embed/job_app?token=5958724003",
