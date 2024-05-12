@@ -1,38 +1,20 @@
 export const JobList: Job[] = [
       {
-    id: 74,
-    heading: "Data Analyst | FRESHERS | WORK FROM HOME",
-    link: "https://unstop.com/jobs/data-analyst-digitech-sols-941631?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
-    image_url: "/static/img/hp.png",
-  },
-      {
-    id: 73,
+    id: 71,
     heading: "Advisor | PhonePe | Bangalore",
     link: "https://boards.greenhouse.io/embed/job_app?token=5958724003",
     image_url: "/static/img/hp.png",
   },
       {
-    id: 72,
+    id: 70,
     heading: "Analyst | KPMG | Bangalore",
     link: "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30014533",
     image_url: "/static/img/hp.png",
   },
       {
-    id: 71,
+    id: 69,
     heading: "Software Developer | ZOHO | Chennai",
     link: "https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d1d818f12a6a00e375c49160b9189518c4",
-    image_url: "/static/img/hp.png",
-  },
-      {
-    id: 70,
-    heading: "Data Entry Job 1 | Freshers | WORK FROM HOME",
-    link: "https://unstop.com/jobs/data-entry-mis-insight-gro-940651?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
-    image_url: "/static/img/hp.png",
-  },
-      {
-    id: 69,
-    heading: "Data Entry Job 2 | Freshers | WORK FROM HOME",
-    link: "https://unstop.com/jobs/data-entry-operator-edusworld-975946?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
     image_url: "/static/img/hp.png",
   },
    {
