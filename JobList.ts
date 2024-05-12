@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+       {
+    id: 74,
+    heading: "Technical Analyst 1 | Oracle | Bangalore",
+    link: "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/232413/?lastSelectedFacet=AttributeChar6&location=India&locationId=300000000106947&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar6%257C0+to+2%252B+years%2522",
+    image_url: "/static/img/hp.png",
+  },
+       {
+    id: 73,
+    heading: "Software Intern | Salesforce | Bangalore / Hyderabad",
+    link: "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Intern_JR250704",
+    image_url: "/static/img/hp.png",
+  },
+       {
+    id: 72,
+    heading: "Intern | Ericsson | Noida",
+    link: "https://jobs.ericsson.com/careers/job/563121759719808",
+    image_url: "/static/img/hp.png",
+  },
       {
     id: 71,
     heading: "Advisor | PhonePe | Bangalore",
