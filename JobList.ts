@@ -1,7 +1,7 @@
 export const JobList: Job[] = [
          {
     id: 75,
-    heading: "Ads Quality Rater | Freelancing | Work From Home",
+    heading: "Ads Quality Analyst| Welocalize | Work From Home",
     link: "https://unstop.com/jobs/ads-quality-rater-hindi-welocalize-994632?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
     image_url: "/static/img/hp.png",
   },
