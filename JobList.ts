@@ -1,8 +1,26 @@
 export const JobList: Job[] = [
          {
-    id: 75,
-    heading: "Ads Quality Analyst | Welocalize | Work From Home",
+    id: 78,
+    heading: "Quality Analyst | Welocalize | Work From Home",
     link: "https://unstop.com/jobs/ads-quality-rater-hindi-welocalize-994632?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+          {
+    id: 77,
+    heading: "Software Intern | Intel | Bangalore",
+    link: "https://jobs.intel.com/en/job/-/-/599/64604293104",
+    image_url: "/static/img/hp.png",
+  },
+          {
+    id: 76,
+    heading: "Quality Engineer | Accenture | Bangalore",
+    link: "https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-4366344-S1689605_en",
+    image_url: "/static/img/hp.png",
+  },
+          {
+    id: 75,
+    heading: "Software Engineer | Cognizant | Bangalore",
+    link: "https://careers.cognizant.com/global-en/jobs/00058596351/software-engineer/?src=SNS-102?JB-11500&utm_source=Software_Engineer_unstop&utm_medium=listing&utm_campaign=unstop",
     image_url: "/static/img/hp.png",
   },
        {
