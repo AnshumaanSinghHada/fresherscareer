@@ -1,4 +1,10 @@
 export const JobList: Job[] = [
+           {
+    id: 79,
+    heading: "CSE | Teleperformance | Work From Home",
+    link: "https://www.naukri.com/job-listings-open-work-from-home-teleperformance-tp-kolkata-0-to-1-years-300424006607?src=simjobsjd_rt",
+    image_url: "/static/img/hp.png",
+  },
          {
     id: 78,
     heading: "Quality Analyst | Welocalize | Work From Home",
