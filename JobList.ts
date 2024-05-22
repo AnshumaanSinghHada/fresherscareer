@@ -1,8 +1,8 @@
 export const JobList: Job[] = [
            {
     id: 79,
-    heading: "CSE | Teleperformance | Work From Home",
-    link: "https://www.naukri.com/job-listings-open-work-from-home-teleperformance-tp-kolkata-0-to-1-years-300424006607?src=simjobsjd_rt",
+    heading: "CSE | Tech Mahindra | Work From Home",
+    link: "https://www.naukri.com/job-listings-customer-service-executive-tech-mahindra-kolkata-0-to-5-years-160524010559?src=cluster&sid=17160587801013797_1&xp=1&px=1",
     image_url: "/static/img/hp.png",
   },
          {
