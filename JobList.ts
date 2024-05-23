@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
            {
+    id: 82,
+    heading: "Developer | Wipro | Bangalore/Hyderabad",
+    link: "https://careers.wipro.com/careers-home/jobs/3070541/job",
+    image_url: "/static/img/hp.png",
+  },
+           {
+    id: 81,
+    heading: "Consulting Internships | Deloitte | Bangalore",
+    link: "https://jobsindia.deloitte.com/job/Bengaluru-Consulting-Internships/25188944/",
+    image_url: "/static/img/hp.png",
+  },
+           {
+    id: 80,
+    heading: "Associate Software Engineer | NTT Data | Bangalore/Hyderabad",
+    link: "https://careers.services.global.ntt/global/en/job/NTT1GLOBALR113463EXTERNALENGLOBAL/Associate-Software-Development-Engineer",
+    image_url: "/static/img/hp.png",
+  },
+           {
     id: 79,
     heading: "CSE | Tech Mahindra | Work From Home",
     link: "https://www.naukri.com/job-listings-customer-service-executive-tech-mahindra-kolkata-0-to-5-years-160524010559?src=cluster&sid=17160587801013797_1&xp=1&px=1",
