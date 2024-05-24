@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+               {
+    id: 85,
+    heading: "Costumer Solution Engineer | Google | Bangalore/Mumbai",
+    link: "https://www.google.com/about/careers/applications/jobs/results/100681580478898886-customer-solutions-engineer-gtech?location=India&target_level=EARLY",
+    image_url: "/static/img/hp.png",
+  },
+               {
+    id: 84,
+    heading: "Associate | WNS | Bangalore",
+    link: "https://jobs.smartrecruiters.com/WNSGlobalServices144/743999968409093-associate-sr-associate",
+    image_url: "/static/img/hp.png",
+  },
+               {
+    id: 83,
+    heading: "Internal Audit Analyst | KPMG | Bangalore",
+    link: "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10017976",
+    image_url: "/static/img/hp.png",
+  },
            {
     id: 82,
     heading: "Developer | Wipro | Bangalore/Hyderabad",
