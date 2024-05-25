@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+    {
+    id: 88,
+    heading: "Operations Expert | Apple | Mumbai/Delhi",
+    link: "https://jobs.apple.com/en-in/details/200314033/in-operations-expert",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 87,
+    heading: "Business Analyst | Citi Bank | Bangalore",
+    link: "https://jobs.citi.com/job/-/-/287/65497931696",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 86,
+    heading: "Support Specialist | Revolut | WORK FROM HOME",
+    link: "https://www.revolut.com/careers/position/support-specialist-phone-f390b2d0-cafa-4cda-8e0d-901d29bdeed7/",
+    image_url: "/static/img/hp.png",
+  },
                {
     id: 85,
     heading: "Costumer Solution Engineer | Google | Bangalore/Mumbai",
