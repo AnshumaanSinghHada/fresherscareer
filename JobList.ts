@@ -1,4 +1,10 @@
 export const JobList: Job[] = [
+     {
+    id: 89,
+    heading: "TCS is Hiring FRESHERS | Any Graduate | 2023 - 2024",
+    link: "https://www.tcs.com/careers/india/tcs-smart-hiring-2024",
+    image_url: "/static/img/hp.png",
+  },
     {
     id: 88,
     heading: "Operations Expert | Apple | Mumbai/Delhi",
