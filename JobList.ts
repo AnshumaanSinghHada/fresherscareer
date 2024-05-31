@@ -1,4 +1,10 @@
 export const JobList: Job[] = [
+      {
+    id: 90,
+    heading: "Java Developer Intern | Freshers | Full Time",
+    link: "https://unstop.com/internships/java-developer-internship-parul-university-pu-vadodara-1008079?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
      {
     id: 89,
     heading: "TCS is Hiring FRESHERS | Any Graduate | 2023 - 2024",
