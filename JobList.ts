@@ -1,11 +1,5 @@
 export const JobList: Job[] = [
       {
-    id: 91,
-    heading: "ASE | Accenture | Hyderabad",
-    link: "https://www.tcs.com/careers/india/tcs-smart-hiring-2024",
-    image_url: "/static/img/hp.png",
-  },
-      {
     id: 90,
     heading: "Java Developer Intern | Freshers | Full Time",
     link: "https://unstop.com/internships/java-developer-internship-parul-university-pu-vadodara-1008079?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
