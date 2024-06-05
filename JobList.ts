@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
       {
+    id: 93,
+    heading: "QA Intern | Smallcase | Bengaluru",
+    link: "https://smallcase.freshteam.com/jobs/UaUOFctFidkT/qa-internship",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 92,
+    heading: "Java Developer | Volvo Group  | Bangalore",
+    link: "https://jobs.volvogroup.com/job/Bangalore-ExcelHER_Java-Developer-562122/978610555/?feedId=361555&utm_source=linkedin",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 91,
+    heading: "Software Engineer Intern | IBM | Bangalore/Pune",
+    link: "https://careers.ibm.com/job/20481519/intern-software-engineer-remote/",
+    image_url: "/static/img/hp.png",
+  },
+      {
     id: 90,
     heading: "Java Developer Intern | Freshers | Full Time",
     link: "https://unstop.com/internships/java-developer-internship-parul-university-pu-vadodara-1008079?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
