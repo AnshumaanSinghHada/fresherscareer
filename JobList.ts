@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
       {
+    id: 96,
+    heading: "Analyst | WNS | Remote",
+    link: "https://jobs.smartrecruiters.com/WNSGlobalServices144/743999987647463-analyst-rna?trid=bb2572dc-93af-47bd-9bb1-9f049abba39c",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 95,
+    heading: "Associate  | PwC  | Bangalore",
+    link: "https://www.pwc.com/gx/en/careers/student-job-search/description.html?wdjobreqid=458884WD&wdcountry=IND&jobtitle=Acceleration%20Center%20-%20Business%20Services%20-%20Product%20&%20Technology%20-%20Associate%20-%202024&wdjobsite=Global_Campus_Careers",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 94,
+    heading: "Business Analyst Intern | Amazon | Bangalore",
+    link: "https://www.amazon.jobs/en/jobs/2662463/business-analyst-intern-row-sharp-team?cmpid=DA_INAD200785B",
+    image_url: "/static/img/hp.png",
+  },
+      {
     id: 93,
     heading: "QA Intern | Smallcase | Bengaluru",
     link: "https://smallcase.freshteam.com/jobs/UaUOFctFidkT/qa-internship",
