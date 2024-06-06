@@ -1,7 +1,7 @@
 export const JobList: Job[] = [
       {
     id: 96,
-    heading: "Analyst | WNS | Remote",
+    heading: "Analyst | WNS | Work From Home",
     link: "https://jobs.smartrecruiters.com/WNSGlobalServices144/743999987647463-analyst-rna?trid=bb2572dc-93af-47bd-9bb1-9f049abba39c",
     image_url: "/static/img/hp.png",
   },
