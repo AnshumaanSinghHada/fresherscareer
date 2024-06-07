@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
       {
+    id: 99,
+    heading: "Trainee | HBC | Bangalore",
+    link: "https://www.hbcindiacareers.com/en/job/240001KM?src=JB-10060",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 98,
+    heading: "Data Scientist  | HP  | Bangalore",
+    link: "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Bangalore-Karnataka-India/Data-Scientist_3136994-1",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 97,
+    heading: "Associate Fresher | Genpact | Bangalore",
+    link: "https://genpact.taleo.net/careersection/sgy_external_career_section/jobdetail.ftl?job=ITO081181",
+    image_url: "/static/img/hp.png",
+  },
+      {
     id: 96,
     heading: "Analyst | WNS | Work From Home",
     link: "https://jobs.smartrecruiters.com/WNSGlobalServices144/743999987647463-analyst-rna?trid=bb2572dc-93af-47bd-9bb1-9f049abba39c",
