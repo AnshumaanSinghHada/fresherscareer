@@ -1,4 +1,10 @@
 export const JobList: Job[] = [
+         {
+    id: 100,
+    heading: "Trainee | Infosys | Freshers",
+    link: "https://tinyurl.com/infosys-freshers",
+    image_url: "/static/img/hp.png",
+  },
       {
     id: 99,
     heading: "Trainee | HBC | Bangalore",
