@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+          {
+    id: 103,
+    heading: "Intern | Airbus | Bangalore",
+    link: "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Intern---Airframe---Internal-Flows---Analytics_JR10273256",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 102,
+    heading: "Software Engineer | JPMorgan | Bengaluru",
+    link: "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210512342",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 101,
+    heading: "Backend Engineer Intern | Peakflo  | Work From Home",
+    link: "https://www.ycombinator.com/companies/peakflo/jobs/xiiq0Kj-backend-engineer-internship-remote",
+    image_url: "/static/img/hp.png",
+  },
          {
     id: 100,
     heading: "Trainee | Infosys | Freshers",
