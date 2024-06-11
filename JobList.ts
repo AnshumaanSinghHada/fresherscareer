@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+                   {
+    id: 106,
+    heading: "Desk Analyst | Wipro | Pune",
+    link: "https://careers.wipro.com/careers-home/jobs/3084629?lang=en-us&previousLocale=en-US",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 105,
+    heading: "Software Engineer | PayPal | Work From Home",
+    link: "https://paypal.eightfold.ai/careers?pid=274900373144&Brand=PayPal&Employment%20Type=full%20time&Type%20of%20Work=remote&domain=paypal.com&sort_by=relevance&triggerGoButton=false",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 104,
+    heading: "Software Engineer | Jio  | Mumbai",
+    link: "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=n2bW34EnFXxoNmUsKuvYSA==&jbID=B1uevVccgI/5XYrQWkeXPA==&funcCode=am1AraTXtX4/W/EJK6dzzw==",
+    image_url: "/static/img/hp.png",
+  },
           {
     id: 103,
     heading: "Intern | Airbus | Bangalore",
