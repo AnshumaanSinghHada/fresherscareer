@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
-                   {
+  {
+    id: 109,
+    heading: "Business Analytics | American Express | Gurgaon",
+    link: "https://aexp.eightfold.ai/careers/job/22394470",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 108,
+    heading: "Software Engineer | IKEA | Bengaluru",
+    link: "https://ikea.avature.net/en_BW/External/JobDetail?id=239051#",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 107,
+    heading: "Backend Developer | IBM  | Bangalore",
+    link: "https://careers.ibm.com/job/20432303/backend-developer-bangalore-in/",
+    image_url: "/static/img/hp.png",
+  },                
+  {
     id: 106,
     heading: "Desk Analyst | Wipro | Pune",
     link: "https://careers.wipro.com/careers-home/jobs/3084629?lang=en-us&previousLocale=en-US",
