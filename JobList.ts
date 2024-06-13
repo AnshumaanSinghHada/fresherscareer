@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+   {
+    id: 112,
+    heading: "Associate | Concentrix | Gurgaon",
+    link: "https://apply.concentrix.com/global/en/job/CONCGLOBALR1499686EXTERNALENGLOBAL/Associate-Real-Time-Management",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 111,
+    heading: "Technical Analyst | Oracle | Across India",
+    link: "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/218870?lastSelectedFacet=LOCATIONS&selectedLocationsFacet=300000000106947",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 110,
+    heading: "Support Practitioner | Accenture  | Bengaluru",
+    link: "https://www.accenture.com/in-en/careers/jobdetails?src=LINKEDINJP&id=ATCI-4380570-S1722569_en",
+    image_url: "/static/img/hp.png",
+  },               
   {
     id: 109,
     heading: "Business Analytics | American Express | Gurgaon",
