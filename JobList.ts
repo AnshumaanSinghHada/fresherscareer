@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
    {
+    id: 115,
+    heading: "Trainee | Nagarro | Work From Home",
+    link: "https://jobs.smartrecruiters.com/ni/Nagarro1/26076c22-eed6-47bf-a226-e819c6efb9d8-trainee",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 114,
+    heading: "Technology Engineer | Amdocs | Pune",
+    link: "https://jobs.amdocs.com/careers/job/563430997294976",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 113,
+    heading: "Analyst | EY  | Bengaluru",
+    link: "https://careers.ey.com/ey/job/Bengaluru-GMS_Compliance_Analyst-Bangalore-KA-560016/1082139201/",
+    image_url: "/static/img/hp.png",
+  },               
+   {
     id: 112,
     heading: "Associate | Concentrix | Gurgaon",
     link: "https://apply.concentrix.com/global/en/job/CONCGLOBALR1499686EXTERNALENGLOBAL/Associate-Real-Time-Management",
