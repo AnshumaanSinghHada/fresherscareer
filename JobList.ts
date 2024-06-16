@@ -7,7 +7,7 @@ export const JobList: Job[] = [
   },
       {
     id: 117,
-    heading: "Center Agent | Amdocs | Hyderabad",
+    heading: "Center Agent | ServiceNow | Hyderabad",
     link: "https://careers.servicenow.com/en/jobs/743999993946055/contact-center-agent/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
     image_url: "/static/img/hp.png",
   },
