@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
    {
+    id: 118,
+    heading: "Associate | Wipro | Gurugram",
+    link: "https://careers.wipro.com/careers-home/jobs/3080609?lang=en-us&previousLocale=en-US",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 117,
+    heading: "Center Agent | Amdocs | Hyderabad",
+    link: "https://careers.servicenow.com/en/jobs/743999993946055/contact-center-agent/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 116,
+    heading: "Software Engineer | Microsoft | Bangalore",
+    link: "https://jobs.careers.microsoft.com/us/en/job/1719114/Software-Engineer",
+    image_url: "/static/img/hp.png",
+  },             
+   {
     id: 115,
     heading: "Trainee | Nagarro | Work From Home",
     link: "https://jobs.smartrecruiters.com/ni/Nagarro1/26076c22-eed6-47bf-a226-e819c6efb9d8-trainee",
