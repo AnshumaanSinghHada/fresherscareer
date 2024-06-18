@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
    {
+    id: 121,
+    heading: "SDE Intern | GeeksforGeeks | Noida",
+    link: "https://www.geeksforgeeks.org/jobs/geeksforgeeks-software-engineer-backend-intern",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 120,
+    heading: "Analyst | EY | Chennai",
+    link: "https://careers.ey.com/ey/job/Chennai-Analyst-TAX-National-TAX-PAS-Mobility-Core-Chennai-TN-600113/1083753901/",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 119,
+    heading: "DevOps Engineer | Wipro | Bengaluru",
+    link: "https://careers.wipro.com/careers-home/jobs/3082201/job",
+    image_url: "/static/img/hp.png",
+  },             
+   {
     id: 118,
     heading: "Associate | Wipro | Gurugram",
     link: "https://careers.wipro.com/careers-home/jobs/3080609?lang=en-us&previousLocale=en-US",
