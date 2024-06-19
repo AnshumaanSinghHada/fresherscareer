@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+    {
+    id: 124,
+    heading: "Associate | DeshawIndia | Hyderabad",
+    link: "https://www.deshawindia.com/careers/associate-qae-qte-fte-off-campus-2024-grads-5482",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 123,
+    heading: "Application Developer | IBM | Pune",
+    link: "https://careers.ibm.com/job/20359621/application-developer-cloud-fullstack-pune-in/",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 122,
+    heading: "Graduate Intern | Intel | Bengaluru",
+    link: "https://jobs.intel.com/en/job/-/-/599/64604293104",
+    image_url: "/static/img/hp.png",
+  },             
    {
     id: 121,
     heading: "SDE Intern | GeeksforGeeks | Noida",
