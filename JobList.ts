@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
     {
+    id: 127,
+    heading: "Software Engineer | AngularMinds | Pune",
+    link: "https://www.angularminds.com/jobs/hiring-it-fresher-software-engineers-pune",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 126,
+    heading: "Specialist Programmer | Infosys | Bangalore",
+    link: "https://surveys.infosysapps.com/r/a/Infosys_SPhiring_24BATCH",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 125,
+    heading: "Software Engineer | Amazon | Bangalore",
+    link: "https://www.amazon.jobs/en/jobs/2671391/software-development-engineer",
+    image_url: "/static/img/hp.png",
+  },             
+    {
     id: 124,
     heading: "Associate | DeshawIndia | Hyderabad",
     link: "https://www.deshawindia.com/careers/associate-qae-qte-fte-off-campus-2024-grads-5482",
