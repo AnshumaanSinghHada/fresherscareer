@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+   {
+    id: 130,
+    heading: "Executive | EXL | Pune",
+    link: "https://exlcareers.peoplestrong.com/job/detail/EXL_E_1057057",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 129,
+    heading: "Java Developer | CGI | Bangalore",
+    link: "https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0524-1373&BRID=1134358&lang=1",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 128,
+    heading: "QA Engineer | Zoho | Pan India",
+    link: "https://www.zoho.com/careers/jobdetails/?job_id=2803000614913581",
+    image_url: "/static/img/hp.png",
+  },             
     {
     id: 127,
     heading: "Software Engineer | AngularMinds | Pune",
