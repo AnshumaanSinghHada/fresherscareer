@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+    {
+    id: 133,
+    heading: "Support Associate | HP | Gurgaon",
+    link: "https://unstop.com/jobs/customer-operations-support-associate-hewlett-packard-1050122?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+      {
+    id: 132,
+    heading: "Analyst Trainee | Deloitte | Hyderabad",
+    link: "https://usijobs.deloitte.com/careersUSI/JobDetail/USI-Campus22-RFA-Analyst-Trainee-OTN/90340",
+    image_url: "/static/img/hp.png",
+  },
+     {
+    id: 131,
+    heading: "New Associate | Accenture | Hyderabad",
+    link: "https://www.accenture.com/in-en/careers/jobdetails?id=AIOC-S01523847_en&title=Trust%20%26%20Safety%20New%20Associate",
+    image_url: "/static/img/hp.png",
+  },             
    {
     id: 130,
     heading: "Executive | EXL | Pune",
