@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
     {
+    id: 136,
+    heading: "Analyst | Goldman Sachs | Bangalore",
+    link: "https://tinyurl.com/y9x9tk32",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 135,
+    heading: "Consulting Internship | Deloitte | Mumbai",
+    link: "https://tinyurl.com/2cj4s9fe",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 134,
+    heading: "Data Analyst | S&P Global | Hyderabad",
+    link: "https://tinyurl.com/4zp2mtk7",
+    image_url: "/static/img/hp.png",
+  },
+    {
     id: 133,
     heading: "Support Associate | HP | Gurgaon",
     link: "https://unstop.com/jobs/customer-operations-support-associate-hewlett-packard-1050122?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
