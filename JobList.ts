@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
     {
+    id: 139,
+    heading: "DevOps Engineer | McAfee | Work From Home",
+    link: "https://careers.mcafee.com/global/en/job/MCAFGLOBALJR0031175ENGLOBALEXTERNAL/DevOps-Engineer-Remote",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 138,
+    heading: "Associate Engineer | Harman  | Bangalore",
+    link: "https://jobs.harman.com/en_US/careers/JobDetail/Associate-Engineer-AI-Data-and-Analytics/22891",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 137,
+    heading: "Applications Engineer | Oracle | Hyderabad, Bengaluru",
+    link: "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/236961",
+    image_url: "/static/img/hp.png",
+  },
+    {
     id: 136,
     heading: "Analyst | Goldman Sachs | Bangalore",
     link: "https://tinyurl.com/y9x9tk32",
