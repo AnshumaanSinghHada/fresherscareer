@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
     {
+    id: 145,
+    heading: "Executive | KPMG | Gurgaon",
+    link: "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30015217",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 144,
+    heading: "Graduate Engineer Trainee | Emerson | Pune",
+    link: "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24007423",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 143,
+    heading: "DCO Trainee | Amazon | Mumbai",
+    link: "https://www.amazon.jobs/en/jobs/2685391/dco-trainee?cmpid=DA_INAD200785B",
+    image_url: "/static/img/hp.png",
+  },
+    {
     id: 142,
     heading: "IP Intern | Paytm | Mumbai",
     link: "https://jobs.lever.co/paytm/e86bbdd3-4de1-4d03-aada-17cc3ba3caf7",
