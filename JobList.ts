@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
     {
+    id: 142,
+    heading: "IP Intern | Paytm | Mumbai",
+    link: "https://jobs.lever.co/paytm/e86bbdd3-4de1-4d03-aada-17cc3ba3caf7",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 141,
+    heading: "Data Analyst | NatWest Group | Bangalore, Gurugram",
+    link: "https://rbs.wd3.myworkdayjobs.com/RBS/job/Bangalore/Digital-Analyst_R-00236427/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 140,
+    heading: "Systems Engineer | GE Vernova | Noida",
+    link: "https://jobs.gecareers.com/vernova/global/en/job/R3768459/Systems-Engineer-System-Design",
+    image_url: "/static/img/hp.png",
+  },
+    {
     id: 139,
     heading: "DevOps Engineer | McAfee | Work From Home",
     link: "https://careers.mcafee.com/global/en/job/MCAFGLOBALJR0031175ENGLOBALEXTERNAL/DevOps-Engineer-Remote",
