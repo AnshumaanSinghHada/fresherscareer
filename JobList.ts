@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+   {
+    id: 148,
+    heading: "SDE | Urban Company | Gurgaon",
+    link: "https://careers.urbancompany.com/jobDetail?id=9af0656f-fad3-421a-802e-caf1591f8a4f",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 147,
+    heading: "Device Associate | Amazon | Chennai",
+    link: "https://www.amazon.jobs/en/jobs/2679787/device-associate?cmpid=DA_INAD200785B",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 146,
+    heading: "Operations Deal Manager | Microsoft | Bangalore",
+    link: "https://jobs.careers.microsoft.com/global/en/job/1722966/Operations-Deal-Manager",
+    image_url: "/static/img/hp.png",
+  },
     {
     id: 145,
     heading: "Executive | KPMG | Gurgaon",
