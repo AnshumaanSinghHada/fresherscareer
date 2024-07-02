@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
    {
+    id: 154,
+    heading: "SDET Intern | BlackBerry | Bengaluru",
+    link: "https://bb.wd3.myworkdayjobs.com/en-US/BlackBerry/job/Bengaluru-India/Intern---SDET_20240449",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 153,
+    heading: "Development Intern | Zoho | Kottarakkara",
+    link: "https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d1bc9a8b443ab578a0c2a130b45fdbb0a1",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 152,
+    heading: "Graduate Intern | Intel | Bengaluru",
+    link: "https://jobs.intel.com/en/job/-/-/599/66537757808",
+    image_url: "/static/img/hp.png",
+  },
+   {
+    id: 151,
+    heading: "Software Engineer | Barclays | Pune",
+    link: "https://search.jobs.barclays/job/-/-/13015/66876306384?src=JB-12860#anchor-description",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 150,
+    heading: "Process Specialist | Cognizant | Bangalore",
+    link: "https://careers.cognizant.com/global-en/jobs/00059084761/process-specialist-data/?src=SNS-102?JB-11500",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 149,
+    heading: "Developer | Wipro | Hyderabad",
+    link: "https://careers.wipro.com/careers-home/jobs/3084489",
+    image_url: "/static/img/hp.png",
+  },
+   {
     id: 148,
     heading: "SDE | Urban Company | Gurgaon",
     link: "https://careers.urbancompany.com/jobDetail?id=9af0656f-fad3-421a-802e-caf1591f8a4f",
