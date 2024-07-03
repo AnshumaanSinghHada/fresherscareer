@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
    {
+    id: 160,
+    heading: "Recruitment Intern | Sprinto | Work From Home",
+    link: "https://jobs.lever.co/Sprinto/cb7f399f-3a5f-4994-8551-a8bded28705a",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 159,
+    heading: "HR Intern | CACTUS | India",
+    link: "https://jobs.cactusglobal.com/jobs/1632?lang=en-us",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 158,
+    heading: "Data Analytics Intern | AON | Bangalore",
+    link: "https://india-careers-aon.icims.com/jobs/78676/job?mobile=false&width=940&height=500&bga=true&needsRedirect=false&jan1offset=330&jun1offset=330",
+    image_url: "/static/img/hp.png",
+  },
+   {
+    id: 157,
+    heading: "Process Associate | IBM | Bengaluru",
+    link: "https://www.naukri.com/job-listings-process-associate-risk-and-compliance-ibm-india-pvt-limited-bengaluru-0-to-1-years-020724913245",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 156,
+    heading: "Financial Analyst | Infor | Hyderabad",
+    link: "https://careers.infor.com/en_US/careers/JobDetail/Financial-Analyst-Associate/13238",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 155,
+    heading: "Data Analyst | Capgemini | Pune",
+    link: "https://jobs.capgemini.com/in-en/job/Pune-Data-Analyst-MH/1069933001/",
+    image_url: "/static/img/hp.png",
+  },
+   {
     id: 154,
     heading: "SDET Intern | BlackBerry | Bengaluru",
     link: "https://bb.wd3.myworkdayjobs.com/en-US/BlackBerry/job/Bengaluru-India/Intern---SDET_20240449",
