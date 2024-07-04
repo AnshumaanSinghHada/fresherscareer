@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
    {
+    id: 163,
+    heading: "Engineer Intern | Smartbear | Bengaluru",
+    link: "https://boards.greenhouse.io/smartbear/jobs/5967735003",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 162,
+    heading: "Tax Intern | EY | Bengaluru",
+    link: "https://eyglobal.yello.co/jobs/XLJVAvo_lm40qIABCzm4cQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 161,
+    heading: "Application Intern | Upstox | Bengaluru",
+    link: "https://jobs.lever.co/upstox/c050c398-67fa-4120-b7ce-a2817fcc9236",
+    image_url: "/static/img/hp.png",
+  },
+   {
     id: 160,
     heading: "Recruitment Intern | Sprinto | Work From Home",
     link: "https://jobs.lever.co/Sprinto/cb7f399f-3a5f-4994-8551-a8bded28705a",
