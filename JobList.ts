@@ -1,4 +1,40 @@
 export const JobList: Job[] = [
+  {
+    id: 169,
+    heading: "QA Engineer | Dyson | Bangalore",
+    link: "https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/India---Bangalore-IT-Capability-Centre/Junior-Frontend-QA-Engineer_JR28303/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 168,
+    heading: "Software Engineer | ADP | Pune",
+    link: "https://recruiting.adp.com/srccar/public/RTI.home?r=5001053431400&c=1130007&d=External-India&rb=INDEED&sid=101#/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 167,
+    heading: "Software Engineer | NTT Data | Hyderabad, Bangalore",
+    link: "https://careers.services.global.ntt/global/en/job/NTT1GLOBALR113463EXTERNALENGLOBAL/Associate-Software-Development-Engineer",
+    image_url: "/static/img/hp.png",
+  }, 
+   {
+    id: 166,
+    heading: "Data Science Intern | TechBairn | Work From Home",
+    link: "https://unstop.com/internships/data-science-internship-techbairn-1047860?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 165,
+    heading: "Engineer Intern | Kounsel | Work From Home",
+    link: "https://www.linkedin.com/jobs/view/3961356993/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 164,
+    heading: "DT Intern | GE Aerospace | Bengaluru",
+    link: "https://jobs.gecareers.com/aviation/global/en/job/GE11GLOBALR3772705EXTERNALENGLOBAL/DT-Intern-Data-Science",
+    image_url: "/static/img/hp.png",
+  }, 
    {
     id: 163,
     heading: "Engineer Intern | Smartbear | Bengaluru",
