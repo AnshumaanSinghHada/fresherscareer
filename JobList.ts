@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
   {
+    id: 175,
+    heading: "Process Associate | Mr Cooper | Bengaluru, Chennai",
+    link: "https://careers.mrcooper.com/us/en/job/MRCOUS022504EXTERNALENUS/Process-Associate-Trainee",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 174,
+    heading: "Data Analyst | JP Morgan | Bengaluru",
+    link: "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210366839",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 173,
+    heading: "Analyst Trainee | Deloitte | Work From Home",
+    link: "https://www.instahyre.com/job-309989-analyst-trainee-at-deloitte-work-from-home/",
+    image_url: "/static/img/hp.png",
+  }, 
+  {
+    id: 172,
+    heading: "HR Intern | Airbus | Bangalore",
+    link: "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/HR-INTERN_JR10271187",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 171,
+    heading: "IT Intern | P&G | Mumbai",
+    link: "https://www.pgcareers.com/global/en/job/R000110490/Internship---Information-Technology",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 170,
+    heading: "Development Intern | Paytm | Work From Home",
+    link: "https://www.naukri.com/job-listings-business-development-intern-paytm-remote-0-to-0-years-051223501206?src=cluster&sid=17200334795255189_1&xp=1&px=1",
+    image_url: "/static/img/hp.png",
+  }, 
+  {
     id: 169,
     heading: "QA Engineer | Dyson | Bangalore",
     link: "https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/India---Bangalore-IT-Capability-Centre/Junior-Frontend-QA-Engineer_JR28303/",
