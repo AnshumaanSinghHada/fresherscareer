@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
   {
+    id: 181,
+    heading: "Data Analyst | Kone | Chennai",
+    link: "https://kone.wd3.myworkdayjobs.com/Careers/job/Chennai-ITECKBS/Data-Analyst_R0639970/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 180,
+    heading: "Technology Campus Hire | EY | Hyderabad",
+    link: "https://eyglobal.yello.co/jobs/wf7FaxbvMhNsuMPx5Xfy0A?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 179,
+    heading: "Junior Data Analyst | Cognizant | Pune",
+    link: "https://careers.cognizant.com/global-en/jobs/00059475331/trainee-junior-data-analyst/?src=SNS-102?JB-11500",
+    image_url: "/static/img/hp.png",
+  }, 
+  {
+    id: 178,
+    heading: "Java Intern | Mobzway | Jaipur",
+    link: "https://unstop.com/internships/java-internship-mobzway-1061264?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 177,
+    heading: "SDE Intern | Fyndjobs | Bengaluru",
+    link: "https://www.linkedin.com/jobs/view/3968270385/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 176,
+    heading: "Software Engineer Intern | HashiCorp | Bengaluru",
+    link: "https://www.hashicorp.com/career/6050047?gh_src=a8bc2ad21",
+    image_url: "/static/img/hp.png",
+  }, 
+  {
     id: 175,
     heading: "Process Associate | Mr Cooper | Bengaluru, Chennai",
     link: "https://careers.mrcooper.com/us/en/job/MRCOUS022504EXTERNALENUS/Process-Associate-Trainee",
