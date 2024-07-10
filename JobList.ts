@@ -1,4 +1,40 @@
 export const JobList: Job[] = [
+{
+    id: 187,
+    heading: "Azure Devops | Deloitte | Mumbai",
+    link: "https://jobsindia.deloitte.com/job/Mumbai-Enabling-Areas-Azure-Devops-Information-Technology/23448944/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 186,
+    heading: "Process Associate | Genpact | Hyderabad",
+    link: "https://genpact.taleo.net/careersection/sgy_external_career_section/jobdetail.ftl?job=HIG018171",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 185,
+    heading: "Process Executive | Infosys | Chennai",
+    link: "https://career.infosys.com/jobdesc?source=44003&jobReferenceCode=PROGEN-EXTERNAL-186307",
+    image_url: "/static/img/hp.png",
+  }, 
+  {
+    id: 184,
+    heading: "DevOps Intern | Syfe | Gurugram",
+    link: "https://careers.syfe.com/jobs/Cnv-bYtTdVwD/devops-intern",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 183,
+    heading: "SEO Intern | SportsKeeda | Work From Home",
+    link: "https://sportskeeda.zohorecruit.in/jobs/Careers/59509000024729021/SEO-Intern?source=CareerSite",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 182,
+    heading: "Backend Intern | Syfe | Gurugram",
+    link: "https://careers.syfe.com/jobs/jt6vmXoVmu-i/backend-intern",
+    image_url: "/static/img/hp.png",
+  }, 
   {
     id: 181,
     heading: "Data Analyst | Kone | Chennai",
