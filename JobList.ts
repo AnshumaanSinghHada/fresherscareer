@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
 {
+    id: 193,
+    heading: "Process Associate | Genpact | Gurugram",
+    link: "https://genpact.taleo.net/careersection/sgy_external_career_section/jobdetail.ftl?src=DS-10971&job=1371343",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 192,
+    heading: "Software Developer | Blinkit | Gurgaon",
+    link: "https://www.instahyre.com/job-324705-software-development-engineer-i-at-blinkit-gurgaon/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 191,
+    heading: "Programmer Analyst | Cognizant | Bangalore",
+    link: "https://careers.cognizant.com/global-en/jobs/000578964712/programmer-analyst/?src=SNS-102?JB-11500",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
+    id: 190,
+    heading: "AI Intern | Sony | Work From Home",
+    link: "https://www.linkedin.com/jobs/view/3947605417/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 189,
+    heading: "Data Analyst Intern | Versor | Work From Home",
+    link: "https://www.versorinvest.com/careers/data-analyst-intern-india/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 188,
+    heading: "SDE Intern | Sharechat | Bangalore",
+    link: "https://www.instahyre.com/job-309128-sde-intern-internship-at-sharechat-bangalore/",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 187,
     heading: "Azure Devops | Deloitte | Mumbai",
     link: "https://jobsindia.deloitte.com/job/Mumbai-Enabling-Areas-Azure-Devops-Information-Technology/23448944/",
