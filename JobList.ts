@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
 {
+    id: 205,
+    heading: "Trainee Engineer | NTT DATA | Bangalore",
+    link: "https://careers.services.global.ntt/global/en/job/R-116691/apply?utm_medium=phenom-feeds&utm_source=linkedin",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 204,
+    heading: "Management Trainee | Genpact | Mumbai",
+    link: "https://genpact.taleo.net/careersection/sgy_external_career_section/jobdetail.ftl?job=BFS037677",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 203,
+    heading: "Data Analyst | Wipro | Gurugram",
+    link: "https://careers.wipro.com/careers-home/jobs/3076738",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
+    id: 202,
+    heading: "Tech Intern | Medtronic | India",
+    link: "https://jobs.medtronic.com/careers/job/22420401",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 201,
+    heading: "SDE Testing Intern | GKF | Pune",
+    link: "https://gfk.wd3.myworkdayjobs.com/en-US/Corporate_Careers/job/NIQ-Pune/Junior-Software-Development-Engineer-in-Test_R00022924-2",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 200,
+    heading: "Data Scientist Intern | ISB | Hyderabad",
+    link: "https://www.isb.edu/en/careers/non-academic-openings/data-scientist---intern--ee.html",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 199,
     heading: "Associate Engineer | United | Gurugram",
     link: "https://careers.united.com/us/en/job/GGN00001545/Associate-Engineer-IT-Quality",
