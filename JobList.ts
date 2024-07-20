@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
 {
+    id: 208,
+    heading: "Executives | EXL | Pune",
+    link: "https://exlcareers.peoplestrong.com/job/detail/EXL_E_1087365",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 207,
+    heading: "Tech Intern Trainee | UBS | India",
+    link: "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?jobid=304889&siteid=5012&partnerid=25008&PageType=JobDetails#jobDetails=304889_5012",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 206,
+    heading: "QA Intern | PitneyBowes | Pune",
+    link: "https://careers.pitneybowes.com/global/en/job/PIBOGLOBALR18422EXTERNALENGLOBAL/Intern-QA",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 205,
     heading: "Trainee Engineer | NTT DATA | Bangalore",
     link: "https://careers.services.global.ntt/global/en/job/R-116691/apply?utm_medium=phenom-feeds&utm_source=linkedin",
