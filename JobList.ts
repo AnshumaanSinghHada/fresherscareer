@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
 {
+    id: 211,
+    heading: "Application Support | Deloitte | Delhi",
+    link: "https://jobsindia.deloitte.com/job/Delhi-Enabling-Areas-Application-Support-Qualtrics-Information-Technology/20244744/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 210,
+    heading: "Software Engineer | PayPal | Chennai",
+    link: "https://paypal.eightfold.ai/careers/job/274901903829",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 209,
+    heading: "Devops Engineer | Intel | Bengaluru",
+    link: "https://jobs.intel.com/en/job/bengaluru/infrastructure-and-devops-engineer/41147/67033779792",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 208,
     heading: "Executives | EXL | Pune",
     link: "https://exlcareers.peoplestrong.com/job/detail/EXL_E_1087365",
