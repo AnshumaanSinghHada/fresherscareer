@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
 {
+    id: 217,
+    heading: "Software Engineering | WesternDigital | Bengaluru",
+    link: "https://jobs.smartrecruiters.com/WesternDigital/744000001182425-engineer-software-engineering-ncg-hiring-be-2024-c-or-c-",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 216,
+    heading: "Quality Analyst | Infor | Bengaluru",
+    link: "https://careers.infor.com/en_US/careers/JobDetail/Quality-Assurance-Analyst-Associate/14544#",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 215,
+    heading: "Quality Analyst | DE Shaw&Co | Hyderabad",
+    link: "https://www.deshawindia.com/careers/associate-qae-qte-fte-off-campus-2024-grads-5482",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 214,
     heading: "Graduate Intern | Mr Cooper | Chennai",
     link: "https://nationstar.wd5.myworkdayjobs.com/en-US/MrCooper/job/Chennai-NSM-Block-7/Graduate-Intern_022555",
