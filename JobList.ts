@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
 {
+    id: 214,
+    heading: "Graduate Intern | Mr Cooper | Chennai",
+    link: "https://nationstar.wd5.myworkdayjobs.com/en-US/MrCooper/job/Chennai-NSM-Block-7/Graduate-Intern_022555",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 213,
+    heading: "Data Science Intern | Antino  | Gurugram",
+    link: "https://antino.freshteam.com/jobs/RgDxWyxePE3H/data-science-intern",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 212,
+    heading: "Data Analyst Intern | S&P Global | Bangalore",
+    link: "https://careers.spglobal.com/jobs/304891?lang=en-us",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 211,
     heading: "Application Support | Deloitte | Delhi",
     link: "https://jobsindia.deloitte.com/job/Delhi-Enabling-Areas-Application-Support-Qualtrics-Information-Technology/20244744/",
