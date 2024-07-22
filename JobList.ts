@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
 {
+    id: 223,
+    heading: "Data Enginner | Magna | Bangalore",
+    link: "https://jobs.magna.com/job/Bangalore-Date-Engineer/582228917/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 222,
+    heading: "Data Enginner | KPMG | Bangalore",
+    link: "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10019786",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 221,
+    heading: "Development Associate | Accenture | Across India",
+    link: "https://indiacampus.accenture.com/myzone/accenture/1/jobs/25377/job-details",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 220,
     heading: "Business Intern | Keka | Mumbai",
     link: "https://ketto.keka.com/careers/jobdetails/64125",
