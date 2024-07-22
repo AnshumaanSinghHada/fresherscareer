@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
 {
+    id: 220,
+    heading: "Business Intern | Keka | Mumbai",
+    link: "https://ketto.keka.com/careers/jobdetails/64125",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 219,
+    heading: "Intern | Danaher | Bangalore",
+    link: "https://jobs.danaher.com/global/en/job/DANAGLOBALR1269605EXTERNALENGLOBAL/Intern",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 218,
+    heading: "PMA Intern | Luxoft | Work From Home",
+    link: "https://career.luxoft.com/jobs/pma-intern-6702",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 217,
     heading: "Software Engineering | WesternDigital | Bengaluru",
     link: "https://jobs.smartrecruiters.com/WesternDigital/744000001182425-engineer-software-engineering-ncg-hiring-be-2024-c-or-c-",
