@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
 {
+    id: 229,
+    heading: "Software Engineer | Zebra | Pune",
+    link: "https://careers.zebra.com/careers/job/343619312416?domain=zebra.com",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 228,
+    heading: "Graduate Trainee | Siemens | Bengaluru",
+    link: "https://jobs.siemens.com/careers/job/563156120088350?hl=en&domain=siemens.com&sourceType=PREMIUM_POST_SITE",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 227,
+    heading: "Process Associate | IBM | Gurgaon",
+    link: "https://careers.ibm.com/job/20731479/process-associate-finance-and-administration-delivery-gurgaon-in/",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
+    id: 226,
+    heading: "Intern | Salesforce | Bangalore,Hyderabad",
+    link: "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Intern_JR250704?source=LinkedIn_Jobs",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 225,
+    heading: "Engineering Intern | Microsoft | Across India",
+    link: "https://jobs.careers.microsoft.com/global/en/job/1743242/Software-Engineering%3A-Internship-Opportunity",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 224,
+    heading: "Engineer Intern | Google | Across India",
+    link: "https://www.google.com/about/careers/applications/jobs/results/83484176157680326-software-engineering-intern-summer-2025",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 223,
     heading: "Data Enginner | Magna | Bangalore",
     link: "https://jobs.magna.com/job/Bangalore-Date-Engineer/582228917/",
