@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
 {
+    id: 235,
+    heading: "Web Developer | Zoho | Work From Home",
+    link: "https://www.zoho.com/careers/jobdetails/?job_id=2803000614913786",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 234,
+    heading: "Software Engineer | Principal | Pune",
+    link: "https://careers.principal.com/in/jobs/43201/job",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 233,
+    heading: "Data Analyst | Cognizant | Mumbai",
+    link: "https://careers.cognizant.com/global-en/jobs/00059444541/junior-data-analyst/?src=SNS-102?JB-11500",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
+    id: 232,
+    heading: "Cyber Security Intern | Airbus | Bangalore",
+    link: "https://unstop.com/internships/cyber-security-intern-airbus-1072104?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 231,
+    heading: "Talent Acquisition Intern | Infrrd | Bangalore",
+    link: "https://infrrd.bamboohr.com/careers/132",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 230,
+    heading: "Software Engineer Intern | Kaplan | Bangalore",
+    link: "https://ghc.wd1.myworkdayjobs.com/en-US/Kaplan_Careers/job/Bangalore-KA-India/Associate-Software-Engineer--Hybrid-_JR240442-1",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 229,
     heading: "Software Engineer | Zebra | Pune",
     link: "https://careers.zebra.com/careers/job/343619312416?domain=zebra.com",
