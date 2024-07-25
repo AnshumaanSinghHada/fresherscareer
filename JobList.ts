@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
 {
+    id: 238,
+    heading: "Data Analyst | Emerson | Pune",
+    link: "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23013268",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 237,
+    heading: "Software Testing Intern | Sequentia | Pune",
+    link: "https://www.sequentia.in/Software-Tester-Intern",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 236,
+    heading: "Technical Associate | Genpact | Hyderabad",
+    link: "https://genpact.taleo.net/careersection/sgy_external_career_section/jobdetail.ftl?src=DS-10971&job=1390819",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 235,
     heading: "Web Developer | Zoho | Work From Home",
     link: "https://www.zoho.com/careers/jobdetails/?job_id=2803000614913786",
