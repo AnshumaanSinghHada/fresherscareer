@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
 {
+    id: 244,
+    heading: "Test Engineer | Yash | Bangalore",
+    link: "https://careers.yash.com/job/Bangalore-Jr_-Software-Tester-Job-KA/1054104266/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 243,
+    heading: "Software Engineer | Tech Mahindra | Pune",
+    link: "https://cuvette.tech/app/dashboard/other-jobs/66a3315567849e8dc17ef5c7",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 242,
+    heading: "Consulting | EY | Pune",
+    link: "https://eyglobal.yello.co/jobs/zBGCeHRCAUJcW1nztz1qzQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
+    id: 241,
+    heading: "Analyst | eClerx | Pune",
+    link: "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/75462",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 240,
+    heading: "Product Analyst Intern | BCG | New Delhi",
+    link: "https://careers.bcg.com/job/23731BR/Product-Analyst-Intern",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 239,
+    heading: "SDE Intern | HP | Bengaluru",
+    link: "https://cuvette.tech/app/dashboard/other-jobs/66a29e36c432b921f3da911e",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 238,
     heading: "Data Analyst | Emerson | Pune",
     link: "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23013268",
