@@ -1,6 +1,24 @@
 export const JobList: Job[] = [
 {
     id: 244,
+    heading: "Talent Acquisition Intern | Unstop | Delhi",
+    link: "https://unstop.com/internships/talent-acquisition-intern-unstop-982457?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 243,
+    heading: "Business Intern | Myntra | Bengaluru",
+    link: "https://unstop.com/internships/intern-business-finance-myntra-1071988?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 242,
+    heading: "Graduate Trainee | Jio | Mumbai ",
+    link: "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=vxpFHGTbi%2fwqGqTPHnXtsA%3d%3d&jbID=IosACTfrHnilV3Z3WUgnNA%3d%3d&funcCode=tBOU2f2ubJIKJJaEorlljoC0jBhJb9cLpWXiiP5HyBU%3d",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
+    id: 244,
     heading: "Test Engineer | Yash | Bangalore",
     link: "https://careers.yash.com/job/Bangalore-Jr_-Software-Tester-Job-KA/1054104266/",
     image_url: "/static/img/hp.png",
