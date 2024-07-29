@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
 {
+    id: 253,
+    heading: "Data Analyst | Emerson | Pune",
+    link: "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23013268",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 252,
+    heading: "Software Developer | Siemens | Bengaluru",
+    link: "https://jobs.siemens.com/careers?query=%2A&location=india&pid=563156120171032&domain=siemens.com&sort_by=relevance&microsite=siemens.com",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 251,
+    heading: "Software Engineer | Genpact | Bangalore",
+    link: "https://genpact.taleo.net/careersection/sgy_external_career_section/jobdetail.ftl?src=DS-10971&job=1393819",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
+    id: 250,
+    heading: "Engineering Intern | Myntra | Bengaluru",
+    link: "https://cuvette.tech/app/dashboard/other-jobs/66699b7a689b726b76593b4f",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 249,
+    heading: "Data Analytics Intern | Tata Cliq | Mumbai",
+    link: "https://cuvette.tech/app/dashboard/other-jobs/666e99b3b03a438ea62c2b17",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 248,
+    heading: "Summer Intern | Baker Hughes | Mumbai ",
+    link: "https://cuvette.tech/app/dashboard/other-jobs/66a4d3ab82faaa87cb97dcb4",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 247,
     heading: "Talent Acquisition Intern | Unstop | Delhi",
     link: "https://unstop.com/internships/talent-acquisition-intern-unstop-982457?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
