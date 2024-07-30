@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
 {
+    id: 256,
+    heading: "Analyst | eClerx | Pune",
+    link: "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/75485",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 255,
+    heading: "Data Analyst | UST | Bangalore",
+    link: "https://usource.ripplehire.com/candidate/?token=8YxWjpwDhdL62DFYUIcQ&lang=en&source=USTLINKEDIN&ref=USTLINKEDIN#detail/job/22616",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 254,
+    heading: "Business Analyst | Capgemini | Pune",
+    link: "https://www.capgemini.com/in-en/jobs/4b1lxZABje7kHFfZvW32/v-business-analyst--mumbai/",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 253,
     heading: "Data Analyst | Emerson | Pune",
     link: "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23013268",
