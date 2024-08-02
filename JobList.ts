@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
 {
+    id: 262,
+    heading: "Data Analyst | eClerx | Pune",
+    link: "https://opportunities.vodafone.com/job/Pune-Data-Analyst-Jedox/1101464501/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 261,
+    heading: "Java Developer | NTTData | Bangalore",
+    link: "https://nttdata.eightfold.ai/careers?seniority=Entry&pid=563327918838303&domain=nttdata.com&sort_by=relevance",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 260,
+    heading: "Data Analyst | Wipro | Pune",
+    link: "https://careers.wipro.com/careers-home/jobs/3091046",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
+    id: 259,
+    heading: "BDE Intern | Paytm | Mumbai",
+    link: "https://jobs.lever.co/paytm/3ac2c184-755a-4e9d-9e9a-92f649415dc6?utm_source=Business_Development_Consultant_Internship_unstop&utm_medium=listing&utm_campaign=unstop",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 258,
+    heading: "Data Science Intern | Pfizer | Mumbai, Chennai",
+    link: "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Data-Science-Intern_4916949?source=linkedin",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 257,
+    heading: "Software Engineer Intern | Microsoft | Pan India",
+    link: "https://jobs.careers.microsoft.com/global/en/job/1743242/Software-Engineering%3A-Internship-Opportunity",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 256,
     heading: "Analyst | eClerx | Pune",
     link: "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/75485",
