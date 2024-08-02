@@ -1,7 +1,25 @@
 export const JobList: Job[] = [
 {
+    id: 265,
+    heading: "ITPT OFFCAMPUS | Cognizant | Pan India",
+    link: "https://app.joinsuperset.com/join/#/signup/student/jobprofiles/92217fe2-2130-461c-9be3-97c0ffb9e9da",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 264,
+    heading: "QA Engineer | Cencora | Pune",
+    link: "https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/Pune-India/Engineer---Quality---Testing_R2416313",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 263,
+    heading: "System Associate | Accenture | Pan India",
+    link: "https://indiacampus.accenture.com/myzone/accenture/1/jobs/129361/job-details",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 262,
-    heading: "Data Analyst | eClerx | Pune",
+    heading: "Data Analyst | Vodafone | Pune",
     link: "https://opportunities.vodafone.com/job/Pune-Data-Analyst-Jedox/1101464501/",
     image_url: "/static/img/hp.png",
   },
