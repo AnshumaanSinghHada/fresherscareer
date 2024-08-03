@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
 {
+    id: 271,
+    heading: "Software Engineer | Greenway | Work From Home",
+    link: "https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=597662&cid=6709&locvalue=1174",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 270,
+    heading: "Software Engineer | Akamai | Work From Home",
+    link: "https://akamaicareers.inflightcloud.com/jobdetails/aka_ext/035360?section=aka_ext&job=035360",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 269,
+    heading: "Associate Engineer | NTT Data | New Delhi",
+    link: "https://careers.services.global.ntt/global/en/job/R-116799/apply",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
+    id: 268,
+    heading: "Engineer Intern | Oceaneering | Pune",
+    link: "https://careers.oceaneering.com/global/en/job/OCINGLOBAL8229",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 267,
+    heading: "Product Intern | Standard Chartered | Bangalore",
+    link: "https://jobs.standardchartered.com/job/Bangalore-2025-Product-Control-Intern-GBS-India/800352302/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 266,
+    heading: "IT Intern | Paytm | Noida",
+    link: "https://jobs.lever.co/paytm/1e580ff2-56b8-43de-aeb7-f5907945daaf",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 265,
     heading: "ITPT OFFCAMPUS | Cognizant | Pan India",
     link: "https://app.joinsuperset.com/join/#/signup/student/jobprofiles/92217fe2-2130-461c-9be3-97c0ffb9e9da",
