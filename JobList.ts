@@ -1,5 +1,23 @@
 export const JobList: Job[] = [
 {
+    id: 274,
+    heading: "Support Engineer | PowerSchool | Bengaluru",
+    link: "https://careers3-powerschool.icims.com/jobs/6980/job?mobile=false&width=1170&height=500&bga=true&needsRedirect=false&jan1offset=330&jun1offset=330",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 273,
+    heading: "Junior QA Tester | Kwalee | Bengaluru",
+    link: "https://jobs.eu.lever.co/kwalee/c59afc2f-8160-4ed8-a33e-bbc6d48ef521/apply?lever-source%5B%5D=LinkedIn&lever-origin=applied",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 272,
+    heading: "Associate | Genpact | Bangalore",
+    link: "https://genpact.taleo.net/careersection/sgy_external_career_section/jobdetail.ftl?src=DS-10971&job=1396240",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 271,
     heading: "Software Engineer | Greenway | Work From Home",
     link: "https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=597662&cid=6709&locvalue=1174",
