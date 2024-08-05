@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
 {
+    id: 280,
+    heading: "Software Engineer | Clarivate | Work From Home",
+    link: "https://careers.clarivate.com/job/CLACLAGBJREQ128166EXTERNALENGB/Software-Engineer-Java",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 279,
+    heading: "Trainee | Siemens | Pune",
+    link: "https://jobs.siemens.com/careers/job/563156120234562",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 278,
+    heading: "Python Developer | Panasonic | Bangalore",
+    link: "https://careers.na.panasonic.com/jobs/10425",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
+    id: 277,
+    heading: "Intern | Microchip | Chennai",
+    link: "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/India---Chennai/Intern_R938-24",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 276,
+    heading: "SDE Intern | The Lean Product Studio | Pune",
+    link: "https://unstop.com/internships/software-development-internship-flutter-the-lean-product-studio-1111173?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 275,
+    heading: "Razorpay Intern | Razorpay | Bangalore",
+    link: "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4439466005",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 274,
     heading: "Support Engineer | PowerSchool | Bengaluru",
     link: "https://careers3-powerschool.icims.com/jobs/6980/job?mobile=false&width=1170&height=500&bga=true&needsRedirect=false&jan1offset=330&jun1offset=330",
