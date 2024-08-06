@@ -1,5 +1,41 @@
 export const JobList: Job[] = [
 {
+    id: 286,
+    heading: "Data Analyst | Schneider Electric | New Delhi",
+    link: "https://careers.se.com/jobs/0090T2?lang=en-us&iis=Job+Board&iisn=linkedin&src=linkedin",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 285,
+    heading: "Developer | SAP | Bangalore",
+    link: "https://jobs.sap.com/job/Bangalore-Developer-ABAP-S4HANA-Procurement-560066/1090451901/",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 284,
+    heading: "Business Analyst | Amazon | Hyderabad",
+    link: "https://www.amazon.jobs/en/jobs/2696682/business-analyst-i-roc-analytics-roc",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
+    id: 283,
+    heading: " SDE Intern | Ridecell | Pune",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLScT2gdgW-LQMThkFGlhi6LI3lmJp127-TaSus1rWwpdI_g7sQ/viewform",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 282,
+    heading: "Trainee | Monotype | Noida",
+    link: "https://monotype.wd1.myworkdayjobs.com/en-US/Monotype/job/Noida/Trainee--Market-Intelligence_R0003664",
+    image_url: "/static/img/hp.png",
+  },
+    {
+    id: 281,
+    heading: "Apprentice | S&P global | Gurgaon & Hyderabad",
+    link: "https://careers.spglobal.com/jobs/305935?lang=en-us",
+    image_url: "/static/img/hp.png",
+  }, 
+    {
     id: 280,
     heading: "Software Engineer | Clarivate | Work From Home",
     link: "https://careers.clarivate.com/job/CLACLAGBJREQ128166EXTERNALENGB/Software-Engineer-Java",
