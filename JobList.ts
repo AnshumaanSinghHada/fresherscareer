@@ -1,8 +1,8 @@
 export const JobList: Job[] = [
 {
     id: 286,
-    heading: "Data Analyst | Schneider Electric | New Delhi",
-    link: "https://careers.se.com/jobs/0090T2?lang=en-us&iis=Job+Board&iisn=linkedin&src=linkedin",
+    heading: "Associate | Accenture | Bangalore",
+    link: "https://www.accenture.com/in-en/careers/jobdetails?src=LINKEDINJP&id=AIOC-S01554162_en",
     image_url: "/static/img/hp.png",
   },
     {
