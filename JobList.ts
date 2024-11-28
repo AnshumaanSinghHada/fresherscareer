@@ -1,4 +1,10 @@
 export const JobList: Job[] = [
+    {
+    id: 287,
+    heading: "Associate Engineer | Qualcomm | Hyderabad",
+    link: "https://cuvette.tech/app/other-jobs/6745db1922860e72c5bbf796?referralCode=1P05IC",
+    image_url: "/static/img/hp.png",
+  },
 {
     id: 286,
     heading: "Associate | Accenture | Bangalore",
