@@ -1,4 +1,10 @@
 export const JobList: Job[] = [
+     {
+    id: 288,
+    heading: "Intern | NTT DATA | Bangalore",
+    link: "https://careers.services.global.ntt/global/en/job/R-121946/Intern",
+    image_url: "/static/img/hp.png",
+  },
     {
     id: 287,
     heading: "Associate Engineer | Qualcomm | Hyderabad",
