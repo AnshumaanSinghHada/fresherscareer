@@ -1,4 +1,10 @@
 export const JobList: Job[] = [
+ {
+    id: 289,
+    heading: "Data Analyst | TIAA | Work From Home",
+    link: "https://tinyurl.com/tiaa-freshers",
+    image_url: "/static/img/hp.png",
+  },
      {
     id: 288,
     heading: "Intern | NTT DATA | Bangalore",
