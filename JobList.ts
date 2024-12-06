@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+  {
+    id: 292,
+    heading: "Software Developer | IBM | Bangalore",
+    link: "https://careers.ibm.com/job/21335919/software-developer-bangalore-in/",
+    image_url: "/static/img/hp.png",
+  },
+  {
+    id: 291,
+    heading: "Sofware Engineer | Optum | Hyderabad - Noida,
+    link: "https://careers.unitedhealthgroup.com/job/21243748/software-engineer-hyderabad-in/",
+    image_url: "/static/img/hp.png",
+  },
+  {
+    id: 290,
+    heading: "Junior Data Analyat | Cognizant | Multiple Location",
+    link: "https://careers.cognizant.com/india-en/jobs/00060972161/junior-data-analyst/",
+    image_url: "/static/img/hp.png",
+  },
  {
     id: 289,
     heading: "Data Analyst | TIAA | Work From Home",
