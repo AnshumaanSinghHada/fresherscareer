@@ -7,7 +7,7 @@ export const JobList: Job[] = [
   },
   {
     id: 291,
-    heading: "Sofware Engineer | Optum | Hyderabad - Noida,
+    heading: "Sofware Engineer | Optum | Hyderabad & Noida",
     link: "https://careers.unitedhealthgroup.com/job/21243748/software-engineer-hyderabad-in/",
     image_url: "/static/img/hp.png",
   },
