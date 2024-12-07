@@ -1,5 +1,11 @@
 export const JobList: Job[] = [
   {
+    id: 293,
+    heading: "Network Engineer | WIPRO | Pune",
+    link: "https://careers.wipro.com/careers-home/jobs/3114949",
+    image_url: "/static/img/hp.png",
+  },
+  {
     id: 292,
     heading: "Software Developer | IBM | Bangalore",
     link: "https://careers.ibm.com/job/21335919/software-developer-bangalore-in/",
