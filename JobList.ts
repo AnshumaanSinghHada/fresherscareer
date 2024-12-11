@@ -1,4 +1,10 @@
 export const JobList: Job[] = [
+{
+    id: 294,
+    heading: "Data Entry | Lorang Infotech | Work From Home",
+    link: "https://unstop.com/jobs/data-entry-mis-lorgan-info-1279066?lb=IqOiHS62&utm_medium=Share&utm_source=shortUrl",
+    image_url: "/static/img/hp.png",
+  },
   {
     id: 293,
     heading: "Network Engineer | WIPRO | Pune",
