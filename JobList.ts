@@ -1,4 +1,22 @@
 export const JobList: Job[] = [
+    {
+    id: 297,
+    heading: "Support Specialist | Revolut | Work From Home",
+    link: "https://www.revolut.com/careers/position/ace19306-d309-4838-a8f3-4f65cef7aec8/",
+     image_url: "/static/img/hp.png",
+  },
+     {
+    id: 296,
+    heading: "App Developer | Accenture | Multiple Location",
+    link: "https://indiacampus.accenture.com/myzone/accenture/1/jobs/25377/job-details",
+     image_url: "/static/img/hp.png",
+  },
+    {
+    id: 295,
+    heading: "Process Executive | Cognizant | Hyderabad",
+    link: "https://careers.cognizant.com/india-en/jobs/00061442571/process-executive-data/",
+    image_url: "/static/img/hp.png",
+    },
 {
     id: 294,
     heading: "Data Entry | Lorang Infotech | Work From Home",
