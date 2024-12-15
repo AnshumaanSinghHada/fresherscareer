@@ -11,6 +11,12 @@ export const JobList: Job[] = [
     link: "https://indiacampus.accenture.com/myzone/accenture/1/jobs/25377/job-details",
      image_url: "/static/img/hp.png",
   },
+      {
+    id: 298,
+    heading: "Internship | Synopsys | Bengaluru",
+    link: "https://careers.synopsys.com/job/-/-/44408/70164149888",
+     image_url: "/static/img/hp.png",
+  },
     {
     id: 295,
     heading: "Process Executive | Cognizant | Hyderabad",
