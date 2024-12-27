@@ -1,4 +1,10 @@
 export const JobList: Job[] = [
+      {
+    id: 298,
+    heading: "Software Engineer | Amazon | Multiple Location",
+    link: "https://www.amazon.jobs/en/jobs/2861961/software-dev-engineer-i-amazon-university-talent-acquisition",
+     image_url: "/static/img/hp.png",
+  },
     {
     id: 297,
     heading: "Support Specialist | Revolut | Work From Home",
