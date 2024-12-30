@@ -1,4 +1,10 @@
 export const JobList: Job[] = [
+ {
+    id: 299,
+    heading: "Web Developer | Accenture | Bangalore ",
+    link: "https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-4720648-S1830560_en",
+     image_url: "/static/img/hp.png",
+  },
       {
     id: 298,
     heading: "Software Engineer | Amazon | Multiple Location",
