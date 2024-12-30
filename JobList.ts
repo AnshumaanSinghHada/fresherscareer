@@ -1,8 +1,20 @@
 export const JobList: Job[] = [
  {
-    id: 299,
+    id: 301,
+    heading: "Front-End Developer | Adani Labs | Kolkata ",
+    link: "https://eibd.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4984",
+     image_url: "/static/img/hp.png",
+  },
+ {
+    id: 300,
     heading: "Web Developer | Accenture | Bangalore ",
     link: "https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-4720648-S1830560_en",
+     image_url: "/static/img/hp.png",
+  },
+ {
+    id:299 ,
+    heading: "Junior Engineer | Cornerstone | Pune ",
+    link: "https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/9992?c=cornerstone",
      image_url: "/static/img/hp.png",
   },
       {
